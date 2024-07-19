@@ -1,10 +1,16 @@
 # Vasyl-Krupka
+
 📱 +38 (050) 2356 490
+
 📩 krupka.ua@gmail.com
+
 GitHub https://github.com/Endorrfin
+
 linkedIn https://linkedin.com/in/vasyl-krupka
 
+
 ------- EXPERIENCE -------
+
 
 📌 Ralabs
 🧑‍💻 Project: OptiRTC portal (May 2023 – present)
@@ -18,6 +24,7 @@ Successfully upgraded 68 dependencies, encompassing 25 patches, 24 minor updates
 -	Implemented Touch Testing Matrix for comprehensive testing coverage.
 -	Strengthened application security, reducing potential vulnerabilities.
 -	Engaged in daily meetings with the client to ensure smooth communication and alignment with project objectives
+
 
 📌 ISsoft Ukraine (COHERENT SOLUTIONS)
 🧑‍💻 Project: ClearGov - budget cycle management (March 2022 – March 2023)
@@ -42,6 +49,7 @@ Main tasks that I performed in the project.
 -	Ensuring cross-browser compatibility of migrated views.
 -	Collaborating with other developers to ensure high-performance of system.
 
+
 📌 PayOp
 🧑‍💻 Projects: payOp and payDo - April 2020 – August 2021
 Platform accepts, processes, and sends payments from 100+ countries with 350+ payment methods, including Internet acquiring.
@@ -53,12 +61,14 @@ Platform accepts, processes, and sends payments from 100+ countries with 350+ pa
 -	Executed refactoring of existing code
 -	Bug fixes
 
+
 📌 Previous work experience prior to transitioning to the IT field
 I worked at companies such as Robert Bosch GmbH, Allbiz, in positions related to analytical activities.
 The main activity was working with internal databases, analyzing and processing large datasets utilized advanced Excel features, including Power Query, Pivot Tables, Filters, MATCH, OFFSET, MID and VLOOKUP, to streamline data consolidation, validation, manipulation and conditional formatting. Produced visually engaging charts and graphs through Excel's advanced charting capabilities, enabling stakeholders to interpret complex data at a glance.
 
 
 ------ EDUCATION & INTERNSHIP -------
+
 📌 Andersen Lab, full-time, office Kyiv
 Internship at Andersen Lab | February 2020 - April 2020
 -	Strengthened foundational knowledge of HTML, CSS, and JavaScript through hands-on practice and repetition of basic concepts.
@@ -66,6 +76,7 @@ Internship at Andersen Lab | February 2020 - April 2020
 -	Introduced to the testing pyramid, understanding the importance of comprehensive testing strategies.
 -	Developed a solid understanding of software engineering practices, including OOP, SOLID principles, and Design Patterns.
 -	Trained in the basics of data structures and algorithms, enhancing problem-solving abilities.
+
 
 📌 IT Bootcamp - Upscale Academy (full-time, Kyiv)
 🎓 May 2019 – November 2019 graduated IT Bootcamp (Upscale Academy) - studied Full Stack Developer (HTML, CSS, JavaScript, React JS, Node.js).
@@ -78,6 +89,7 @@ BootCamp covered the following aspects:
 -	Utilized Webpack for bundling and managing assets in large-scale projects.
 -	Cross-browser compatibility issues and how to solve them.
 -	Understanding of UX/UI principles and best practices for creating intuitive and user-friendly interfaces.
+
 
 📌 Master of Science in Automation of Information Technologies Kyiv National University of Construction and Architecture | Graduated: 2008, Specialized in "Head of Projects and Programs"
 
