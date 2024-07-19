@@ -13,6 +13,7 @@ linkedIn https://linkedin.com/in/vasyl-krupka
 
 
 📌 Ralabs
+
 🧑‍💻 Project: OptiRTC portal (May 2023 – present)
 OptiRTC is a company that specializes in providing advanced solutions for managing stormwater and urban water infrastructure using innovative solutions.
 Successfully upgraded 68 dependencies, encompassing 25 patches, 24 minor updates, and 19 major enhancements.
@@ -27,6 +28,7 @@ Successfully upgraded 68 dependencies, encompassing 25 patches, 24 minor updates
 
 
 📌 ISsoft Ukraine (COHERENT SOLUTIONS)
+
 🧑‍💻 Project: ClearGov - budget cycle management (March 2022 – March 2023)
 ClearGov is a comprehensive platform aiding local officials in promoting transparency, streamlining budgeting, and fostering community engagement.
 🛠️ Engaged Technologies and Tools: Node.js, JavaScript, TypeScript, HTML5, LESS, Angular, MySQL Workbench, Angular Material, RxJS library, Lodash, Bootstrap, Dev Tools, Jira, Bitbucket (Git), Confluence, Wiki, IntelliJ IDEA, MS Teams.
@@ -51,6 +53,7 @@ Main tasks that I performed in the project.
 
 
 📌 PayOp
+
 🧑‍💻 Projects: payOp and payDo - April 2020 – August 2021
 Platform accepts, processes, and sends payments from 100+ countries with 350+ payment methods, including Internet acquiring.
 🛠️ Engaged Technologies and Tools: JavaScript, TypeScript, HTML, SCSS, Angular, Nx Monorepos, RxJS library, NgRx store, Bootstrap, Angular Material, NPM package, PostgreSQL, Postman, JSON, Jira, Docker, Jenkins, GitLab, WordPress CMS, Figma.
@@ -63,6 +66,7 @@ Platform accepts, processes, and sends payments from 100+ countries with 350+ pa
 
 
 📌 Previous work experience prior to transitioning to the IT field
+
 I worked at companies such as Robert Bosch GmbH, Allbiz, in positions related to analytical activities.
 The main activity was working with internal databases, analyzing and processing large datasets utilized advanced Excel features, including Power Query, Pivot Tables, Filters, MATCH, OFFSET, MID and VLOOKUP, to streamline data consolidation, validation, manipulation and conditional formatting. Produced visually engaging charts and graphs through Excel's advanced charting capabilities, enabling stakeholders to interpret complex data at a glance.
 
@@ -70,6 +74,7 @@ The main activity was working with internal databases, analyzing and processing 
 ------ EDUCATION & INTERNSHIP -------
 
 📌 Andersen Lab, full-time, office Kyiv
+
 Internship at Andersen Lab | February 2020 - April 2020
 -	Strengthened foundational knowledge of HTML, CSS, and JavaScript through hands-on practice and repetition of basic concepts.
 -	Gained expertise in Angular and RxJS, contributing to the development of dynamic and reactive web applications.
@@ -79,6 +84,7 @@ Internship at Andersen Lab | February 2020 - April 2020
 
 
 📌 IT Bootcamp - Upscale Academy (full-time, Kyiv)
+
 🎓 May 2019 – November 2019 graduated IT Bootcamp (Upscale Academy) - studied Full Stack Developer (HTML, CSS, JavaScript, React JS, Node.js).
 BootCamp covered the following aspects:
 -	Proficient in building modern and responsive web applications using HTML/CSS, following BEM methodology for maintainable and scalable code.
